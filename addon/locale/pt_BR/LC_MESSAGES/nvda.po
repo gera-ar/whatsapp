@@ -1,0 +1,277 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the 'whatsapp' package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 'whatsapp' '1.2'\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
+"POT-Creation-Date: 2023-01-29 08:24-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. Translators: Mensaje que anuncia que no se ha encontrado el elemento
+#: addon\appModules\whatsapp.py:78
+msgid "Elemento no encontrado"
+msgstr "Ítem não encontrado"
+
+#. Translators: Descripción del elemento en el diálogo gestos de entrada
+#: addon\appModules\whatsapp.py:157
+msgid "Inicia o finaliza la grabación de un mensaje de voz"
+msgstr "Inicia ou finaliza a gravação de uma mensagem de voz"
+
+#. Translators: Mensaje de envío del mensaje de audio
+#: addon\appModules\whatsapp.py:165
+msgid "Enviando..."
+msgstr "Enviando..."
+
+#. Translators: Mensaje de inicio de grabación de un mensaje de voz
+#: addon\appModules\whatsapp.py:173
+msgid "Grabando"
+msgstr "Gravando"
+
+#. Translators: Aviso de que el cuadro de edición de mensaje no está vacío
+#: addon\appModules\whatsapp.py:179
+msgid "El cuadro de edición no está vacío"
+msgstr "A caixa de texto não está vazia"
+
+#. Translators: Descripción del elemento en el diálogo gestos de entrada
+#: addon\appModules\whatsapp.py:184
+msgid "Cancela la grabación de los mensajes de voz"
+msgstr "Cancela a gravação de uma mensagem de voz"
+
+#. Translators: Mensaje de cancelación de la grabación de un mensaje de voz
+#: addon\appModules\whatsapp.py:192
+msgid "Cancelado"
+msgstr "Cancelado"
+
+#. Translators: Descripción del elemento en el diálogo gestos de entrada
+#: addon\appModules\whatsapp.py:199
+msgid "Verbaliza el tiempo de grabación de un mensaje"
+msgstr "Fala o tempo de gravação de uma mensagem"
+
+#. Translators: Descripción del elemento en el diálogo gestos de entrada
+#: addon\appModules\whatsapp.py:210
+msgid "Activa y desactiva los sonidos del complemento"
+msgstr "Ativa ou desativa os sons do complemento"
+
+#. Translators: Mensaje que indica la desactivación de los sonidos del complemento
+#: addon\appModules\whatsapp.py:218
+msgid "Sonidos del complemento, desactivados"
+msgstr "Sons do complemento, desativado"
+
+#. Translators: Mensaje que anuncia la activación de los sonidos del complemento
+#: addon\appModules\whatsapp.py:223
+msgid "Sonidos del complemento, activados"
+msgstr "Sons do complemento, ativado"
+
+#. Translators: Descripción del elemento en el diálogo gestos de entrada
+#: addon\appModules\whatsapp.py:228
+msgid ""
+"Activa y desactiva la eliminación de los números de teléfono de los "
+"contactos no agendados en los mensajes"
+msgstr ""
+"Ativa ou desativa a opção para não falar número de telefone dos contatos "
+"que não estão salvos"
+
+#. Translators: Mensaje de la opción de remover números telefónicos, desactivado
+#: addon\appModules\whatsapp.py:236
+msgid "Eliminar números telefónicos, desactivado"
+msgstr "Não falar números de telefone, desativado"
+
+#. Translators: Mensaje de la opción de remover números telefónicos, activado
+#: addon\appModules\whatsapp.py:241
+msgid "Eliminar números telefónicos, activado"
+msgstr "Não falar números de telefone, ativado"
+
+#. Translators: Descripción del elemento en el diálogo gestos de entrada
+#: addon\appModules\whatsapp.py:246
+msgid "Activa y desactiva la opción para ocultar los emojis en los mensajes"
+msgstr "Ativa ou desativa a opção para ocultar emojis nas mensagens"
+
+#. Translators: Mensaje de visualización de emojis, Desactivado
+#: addon\appModules\whatsapp.py:254
+msgid "Ocultar emojis, desactivado"
+msgstr "Ocultar emojis, desativado"
+
+#. Translators: Mensaje de visualización de emojis, activado
+#: addon\appModules\whatsapp.py:259
+msgid "Ocultar emojis, activado"
+msgstr "Ocultar emojis, ativado"
+
+#. Translators: Descripción del elemento en el diálogo gestos de entrada
+#: addon\appModules\whatsapp.py:264
+msgid "Enfoca la lista de chats"
+msgstr "Foca a lista de conversas"
+
+#. Translators: Descripción del elemento en el diálogo gestos de entrada
+#: addon\appModules\whatsapp.py:274
+msgid "Enfoca el elemento mensajes no leídos"
+msgstr "Navega até o indicador de mensagens não lidas"
+
+#. Translators: Descripción del elemento en el diálogo gestos de entrada
+#: addon\appModules\whatsapp.py:288
+msgid ""
+"Conmuta entre la lista de mensajes y el cuadro de edición dentro de un chat"
+msgstr ""
+"Alterna entre a lista de mensagens e a caixa de edição de mensagens em uma "
+"conversa"
+
+#. Translators: Descripción del elemento en el diálogo gestos de entrada
+#: addon\appModules\whatsapp.py:304
+msgid "Verbaliza el nombre del contacto o grupo"
+msgstr "Fala o nome do contato ou do grupo"
+
+#. Translators: Descripción del elemento en el diálogo gestos de entrada
+#: addon\appModules\whatsapp.py:318
+msgid "Verbaliza la respuesta en el mensaje con el foco"
+msgstr "Fala a resposta da mensagem em foco"
+
+#: addon\appModules\whatsapp.py:334
+msgid "Texto del mensaje"
+msgstr "Texto da mensagem"
+
+#. Translators: Mensaje de que no hay texto para mostrar
+#: addon\appModules\whatsapp.py:337
+msgid "No hay texto para mostrar"
+msgstr "Não há texto para exibir"
+
+#. Translators: Descripción del elemento en el diálogo gestos de entrada
+#: addon\appModules\whatsapp.py:344
+msgid "Pulsa el botón adjuntar"
+msgstr "Pressiona o botão anexar"
+
+#. Translators: Descripción del elemento en el diálogo gestos de entrada
+#: addon\appModules\whatsapp.py:356
+msgid "Pulsa el botón info del chat"
+msgstr "Pressiona o botão informações da conversa"
+
+#. Translators: Descripción del elemento en el diálogo gestos de entrada
+#: addon\appModules\whatsapp.py:368
+msgid "Activa la ventana de filtros"
+msgstr "Ativa a tela de filtros"
+
+#. Translators: Descripción del elemento en el diálogo gestos de entrada
+#: addon\appModules\whatsapp.py:380
+msgid "Pulsa el botón llamada de video"
+msgstr "Pressiona o botão chamada de vídeo"
+
+#. Translators: Descripción del elemento en el diálogo gestos de entrada
+#: addon\appModules\whatsapp.py:392
+msgid "Pulsa el botón llamada de audio"
+msgstr "Pressiona o botão chamada de vóz"
+
+#. Translators: Mensaje que avisa de la inexistencia de mensajes en reproducción
+#: addon\appModules\whatsapp.py:465
+msgid "Ningún mensaje de audio en reproducción"
+msgstr "Nenhuma mensagem de áudio em reprodução"
+
+#. Translators: Descripción del elemento en el diálogo gestos de entrada
+#: addon\globalPlugins\wsOpen.py:77
+msgid "Abre WhatsApp, o la enfoca si ya se encuentra abierta"
+msgstr "Abre o WhatsApp, ou o foca se já estiver aberto"
+
+#. Translators: Título de la ventana
+#: addon\globalPlugins\wsOpen.py:86
+msgid "Selector de aplicación"
+msgstr "Seletor de aplicativo"
+
+#. Translators: etiqueta del botón aceptar
+#: addon\globalPlugins\wsOpen.py:98
+msgid "Lanzar &aplicación"
+msgstr "Iniciar &aplicativo"
+
+#. Translators: etiqueta del botón cancelar
+#: addon\globalPlugins\wsOpen.py:101
+msgid "&Cerrar"
+msgstr "&Fechar"
+
+#. Translators: título de selección de aplicación
+#: addon\globalPlugins\wsOpen.py:120
+msgid "Seleccione una de las aplicaciones de WhatsApp"
+msgstr "Selecione um dos aplicativos do WhatsApp"
+
+#. Translators: Mensaje de aviso de selección de aplicación
+#: addon\globalPlugins\wsOpen.py:128
+msgid "Debe seleccionar una aplicación para continuar."
+msgstr "Deve selecionar um aplicativo para continuar."
+
+#: addon\globalPlugins\wsOpen.py:128
+msgid "Información"
+msgstr "Informação"
+
+#. Translators: Mensaje de aviso de aplicación no encontrada
+#: addon\globalPlugins\wsOpen.py:162
+msgid "No se ha encontrado la aplicación de WhatsApp"
+msgstr "O aplicativo do WhatsApp não foi encontrado"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:23
+msgid "whatsapp"
+msgstr "WhatsApp"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid ""
+"Complemento que renombra botones sin etiqueta, añade atajos de teclado para "
+"funciones principales de la aplicación, y funciones de enfoque para una "
+"mejor interacción con la interfaz. Solo disponible para la versión UWP."
+msgstr ""
+"Complemento que renomeia botões sem rótulo, adiciona atalhos de teclado "
+"para as principais funções do aplicativo e funções de foco para uma melhor "
+"interação. Disponível somente para a versão UWP."
+
+msgid "Mensajes editados, activado"
+msgstr "Mensagens editadas, ativado"
+
+msgid "Mensaje de voz"
+msgstr "Mensagem de voz"
+
+msgid "Chats Archivados"
+msgstr "Conversas arquivadas"
+
+msgid "Reaccionar"
+msgstr "Reagir"
+
+msgid "Atrás"
+msgstr "Voltar"
+
+msgid "Cancelar mensaje"
+msgstr "Cancelar mensagem"
+
+msgid "Cancelar respuesta"
+msgstr "Cancelar resposta"
+
+msgid "Pausar grabación"
+msgstr "Pausar gravação"
+
+msgid "Enviar mensaje de voz"
+msgstr "Enviar mensagem de voz"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Medio"
+msgstr "Médio"
+
+msgid "Rápido"
+msgstr "Rápido"
+
+msgid "Pulsa el botón de configuración"
+msgstr "Pressione o botão de configurações"
+
+msgid "Pulsa el botón de nuevo chat"
+msgstr "Pressione o botão de nova conversa"
+
+msgid ": "
+msgstr ": "
